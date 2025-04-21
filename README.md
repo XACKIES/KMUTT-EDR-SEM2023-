@@ -21,3 +21,19 @@ The KMUTT team consisted of passionate students from various engineering discipl
 
 ### (You can read all information Here)
 https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/2023%20Electrical%20Document.docx.pdf
+
+
+# Final Product
+![FinalProduct_1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/image(5).png)
+![FinalProduct_2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/image(6).png)
+![FinalProduct_3](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/image(7).png)
+![FinalProduct_4](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/EE014238-7051-482A-B7A1-6CCE84AA4878.jpg)
+![FinalProduct_5](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/5CC53935-E69F-4553-BAB9-64F44B47A146.jpg)
+![FinalProduct_6](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230604_214518.jpg)
+
+
+# Video Testing & Story
+
+![Playlist](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20110650.png)
+
+## We hope You enjoy with Our Story that we try to the best on [KMUTT-EDR-SEM2023 | Youtube Playlist ](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)
