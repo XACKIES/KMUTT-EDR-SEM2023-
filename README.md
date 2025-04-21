@@ -43,6 +43,6 @@ https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/2023%20Electrical%20
 
 # Video Testing & Story
 
-![[Playlist](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20110650.png)
+[![Playlist](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20110650.png)](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)
 
 ## We hope You enjoy with Our Story that we try to the best on [KMUTT-EDR-SEM2023 | Youtube Playlist ](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)
