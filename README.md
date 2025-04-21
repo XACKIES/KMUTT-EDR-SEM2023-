@@ -11,3 +11,13 @@ The KMUTT team consisted of passionate students from various engineering discipl
 ![pic2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_890.jpg)
 
 ## Overall Electrical System
+![Sys_Pic0](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105204.png)
+![Sys_Pic1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20104854.png)
+![Sys_Pic2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20104945.png)
+![Sys_Pic3](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105012.png)
+![Sys_Pic4](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105045.png)
+![Sys_Pic5](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105139.png)
+![Sys_Pic6](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105235.png)
+
+### (You can read all information Here)
+https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/2023%20Electrical%20Document.docx.pdf
