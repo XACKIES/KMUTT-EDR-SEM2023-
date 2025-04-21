@@ -10,6 +10,15 @@ The KMUTT team consisted of passionate students from various engineering discipl
 ![pic1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_945.jpg)
 ![pic2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_890.jpg)
 
+# Special thing
+We are a team of passionate and ambitious engineering students on a mission to design and develop a complete electric vehicle from the ground up. Our focus spans across every critical system — from the powertrain and suspension to body design — integrating innovation, performance, and precision engineering into one seamless machine.
+
+Our flagship challenge lies in building a robust and efficient 1.5kW BLDC motor driver system, handling both hardware and software development. Alongside this, we are engineering the accessory systems that power and support the entire EV platform.
+
+This project is more than just a prototype — it’s our bold step into the future of sustainable mobility.
+![fml_1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082202_058.jpg)
+![fml_2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_843.jpg) 
+With hands-on engineering, innovation, and a dedication to real-world application, we aim to push the boundaries of what student-led projects can achieve.
 ## Overall Electrical System
 ![Sys_Pic0](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105204.png)
 ![Sys_Pic1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20104854.png)
@@ -34,6 +43,6 @@ https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/2023%20Electrical%20
 
 # Video Testing & Story
 
-![Playlist](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20110650.png)
+![[Playlist](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20110650.png)
 
 ## We hope You enjoy with Our Story that we try to the best on [KMUTT-EDR-SEM2023 | Youtube Playlist ](https://youtube.com/playlist?list=PLcadWDHlCjQN2QO1qts0E43YfwpodvE_f&si=IXFKlaso1QlM_xJT)
