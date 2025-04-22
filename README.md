@@ -7,6 +7,7 @@ Shell Eco-marathon 2023 is a world-renowned competition that challenges students
 
 The KMUTT team consisted of passionate students from various engineering disciplines including mechanical, electrical, electronic, and computer engineering. Through collaboration and hands-on experience, they aimed to push the boundaries of fuel efficiency while promoting environmentally friendly transportation solutions. This project served as both an academic challenge and an opportunity to apply interdisciplinary knowledge, reinforcing the students’ commitment to innovation and sustainability on a global stage.
 
+With hands-on engineering, innovation, and a dedication to real-world application, we aim to push the boundaries of what student-led projects can achieve.
 ![pic1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_945.jpg)
 ![pic2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_890.jpg)
 
@@ -18,7 +19,7 @@ Our flagship challenge lies in building a robust and efficient 1.5kW BLDC motor 
 This project is more than just a prototype — it’s our bold step into the future of sustainable mobility.
 ![fml_1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082202_058.jpg)
 ![fml_2](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Photos-001%20(1)/IMG_20230712_082201_843.jpg) 
-With hands-on engineering, innovation, and a dedication to real-world application, we aim to push the boundaries of what student-led projects can achieve.
+
 ## Overall Electrical System
 ![Sys_Pic0](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20105204.png)
 ![Sys_Pic1](https://github.com/XACKIES/KMUTT-EDR-SEM2023-/blob/main/Doc/Overall%20System/Screenshot%202025-04-21%20104854.png)
